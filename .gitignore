@@ -72,6 +72,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+/TvFrontend.iml
 ### Sass template
 .sass-cache/
 *.css.map
